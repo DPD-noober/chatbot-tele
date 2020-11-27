@@ -13,7 +13,7 @@ def log(message, perintah):
     log_bot.write(text_log)
     log_bot.close()
 
-api = "1308184622:AAG850ULzfuHg2FbLomTutIYa7pLsDRyiK0"
+api = "TELEGRAM API"
 bot = telebot.TeleBot(api)
 headers = {
         "Accept": "application/json",
